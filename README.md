@@ -1,1 +1,3 @@
-# TFG
+# Implementación de honeypots para mejorar las defensas cibernéticas
+
+En un entorno cada vez más digitalizado, la detección temprana de amenazas cibernéticas se ha vuelto fundamental para la seguridad de las organizaciones. Este proyecto se centra en la implementación técnica de ciber señuelos, también conocidos como honeypots, con el fin de reforzar proactivamente las defensas cibernéticas. El proyecto abarca desde la planificación y prueba de concepto, hasta el análisis e interpretación de los datos obtenidos mediante los honeypots. La prueba de concepto implica configurar el entorno, recolectar y analizar indicadores de compromiso (IOCs), y generar recomendaciones concretas para fortalecer las defensas cibernéticas de las organizaciones. El propósito no solo es detectar y mitigar posibles amenazas, sino también ofrecer una comprensión más profunda de los riesgos y fortalecer la resiliencia de la infraestructura digital frente a futuros ataques.
